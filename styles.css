@@ -1,7 +1,7 @@
 body 
 {
     line-height: 1.5;
-    background-color: #f9fbfd;
+    background-color: #c8e0fc;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 20px;
     padding: 10px;
@@ -9,7 +9,7 @@ body
 
 header 
 {
-    background: #024c77;
+    background: #0386b1;
     text-align: center;
     color: #040608;
     padding: 15px;
@@ -22,14 +22,14 @@ main
 
 h2 
 {
-    color: #010405;;
+    color: #014c65;;
 }
 
 footer 
 {
-    background: #71a2d5;
+    background: #0386b1;
     text-align: center;
-    color: #7ce9f7;;
+    color: #020405;;
     padding: 10px;
     position: relative;
     width: 100%;
