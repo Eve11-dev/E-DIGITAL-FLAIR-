@@ -1,7 +1,7 @@
 body 
 {
     line-height: 1.5;
-    background-color: #c8e0fc;
+    background-color: #fefefe;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 20px;
     padding: 10px;
@@ -9,15 +9,15 @@ body
 
 header 
 {
-    background: #0386b1;
+    background: #0390bf;
     text-align: center;
     color: #040608;
-    padding: 15px;
+    padding: 10px;
 }
 
 main 
 {
-    padding: 10px;
+    padding: 12px;
 }
 
 h2 
@@ -43,4 +43,203 @@ footer
     margin-right: auto; /* La imagen se alinia a la izquierda */
     margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
    
+}
+
+.img-portatiles {
+    width: 190px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -185px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 700px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(200px); /* El valor negativo lo mueve hacia arriba */
+}
+.img-portatiles2 {
+    width: 190px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -198px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 480px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(210px); /* El valor negativo lo mueve hacia arriba */
+}
+.img-portatiles3 {
+    width: 200px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 260px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(210px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-portatiles4 {
+    width: 250px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 0px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(210px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-accesorios {
+    width: 200px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 650px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(300px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-accesorios2 {
+    width: 200px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 430px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(290px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-accesorios3 {
+    width: 190px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 210px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(260px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-accesorios4 {
+    width: 170px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 0px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(250px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-software {
+     width: 200px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 650px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(350px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-software2 {
+    width: 200px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 430px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(300px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-software3 {
+    width: 190px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 210px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(280px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-software4 {
+     width: 170px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 0px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(250px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-ofertas {
+   width: 190px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 590px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(340px); /* El valor negativo lo mueve hacia arriba */   
+}
+
+.img-ofertas2 {
+   width: 190px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 370px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(310px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-ofertas3 {
+    width: 180px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 170px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(260px); /* El valor negativo lo mueve hacia arriba */
+}
+
+.img-ofertas4 {
+    width: 150px; /* Cambia el número para ajustar el tamaño */
+    border-radius: 10px; /* Opcional: bordes redondeados */
+    display: block;
+    margin-top: -165px; /* Ajusta el espacio entre el encabezado y la imagen */
+    margin-right: 0px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+  transform: translateY(260px); /* El valor negativo lo mueve hacia arriba */
+}
+.button-ver{
+    background-color: #074dc7;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+     margin-right: auto; /* El botton se alinia a la izquierda */
+}
+
+.button-contactar{
+    background-color: #03122c;
+    color: #fdf9f9;
+    border: none;
+    padding: 8px 10px;
+    cursor: pointer;
+    font-size: 10px;
+    border-radius: 5px;
+    margin-right: 900px;    /* Se pega a la derecha */
+    display: block;
+  margin-left: auto;
+     transform: translateY(-14px); /* El valor negativo lo mueve hacia arriba */
+     margin-top: -10px; /* Ajusta el espacio entre el encabezado y la imagen */
 }
